@@ -443,8 +443,7 @@
   min-height: 600px;
   background-color: white;
 }
-
-.itemsLugar {
+.seccionTres .itemsLugar {
   min-height: 200px;
   display: flex;
   justify-content: space-around;
@@ -465,16 +464,14 @@
   justify-content: center;
   align-items: center;
 }
-
-form {
+.seccionCinco form {
   width: 50%;
   background: rgba(0, 0, 0, 0.4);
   box-sizing: border-box;
   padding: 10px 20px;
   border-radius: 20px;
 }
-
-input, textarea {
+.seccionCinco input, .seccionCinco textarea {
   width: 100%;
   margin-bottom: 20px;
   padding: 10px;
