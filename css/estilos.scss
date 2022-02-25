@@ -485,23 +485,25 @@
     display: flex;
     justify-content: center;
     align-items: center; 
-    form {
-        width: 50%;
-        background: rgba( 0,0,0,0.4);
-        box-sizing: border-box;
-        padding: 10px 20px;
-        border-radius: 20px;
-        
-    }
-    input, textarea {
-        width: 100%;
-        margin-bottom: 20px;
-        padding: 10px;
-        font-size: 17px;
-        border: none;
-        text-align: center;
-    }
+    
 }  
+
+form {
+    width: 50%;
+    background: rgba( 0,0,0,0.4);
+    box-sizing: border-box;
+    padding: 10px 20px;
+    border-radius: 20px;
+    
+}
+input, textarea {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 17px;
+    border: none;
+    text-align: center;
+}
 
 
 
